@@ -1,4 +1,4 @@
-# Objects
+# Classes
 
 As programming has become more complicated, so too have the structures used to write and understand code. So far, variables and functions have been discussed as ways to handle data and perform small tasks. And, for decades, these were the two central concepts used to develop code. Values were saved and changed; functions were used to divided up large projects into smaller tasks.
 
